@@ -75,6 +75,8 @@ In addition to my frontend skills, I have a strong background in backend develop
 
 ## Certifications :
 - Certification from freeCodeCamp
-  - Responsive Web Design       https://www.freecodecamp.org/certification/fcc58e73641-02b4-4a19-8450-d2f53c462d74/responsive-web-design
-  - Front-end Development Libraries https://www.freecodecamp.org/certification/fcc58e73641-02b4-4a19-8450-d2f53c462d74/front-end-development-libraries
+  - Responsive Web Design       
+    https://www.freecodecamp.org/certification/fcc58e73641-02b4-4a19-8450-d2f53c462d74/responsive-web-design
+  - Front-end Development Libraries
+    https://www.freecodecamp.org/certification/fcc58e73641-02b4-4a19-8450-d2f53c462d74/front-end-development-libraries
  
