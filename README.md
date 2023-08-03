@@ -15,7 +15,7 @@ With a deep understanding of frontend technologies and best practices, I have su
 
 In addition to my frontend skills, I have a strong background in backend development, including database design, API development, and server-side scripting. I am experienced in working with languages such as Node.js, Python, and Ruby on Rails, and have a thorough understanding of RESTful principles and microservices architecture.
 
-
+<!-- 
 ## Work History :
 
 - Lead Front-end Developer (DNAxCAT, 2022-2023)
@@ -44,8 +44,7 @@ In addition to my frontend skills, I have a strong background in backend develop
   -	Responsible for building the infrastructure using Laravel
   -	Convert XD to a responsive website UI and real-time update for UX /UI view of the Application
   -	Design databases and work closely with SQL database administrators to implement them into production environments
-
-
+-->
 ## Skills:
 
 - Languages
@@ -72,11 +71,11 @@ In addition to my frontend skills, I have a strong background in backend develop
 - Other
 
   Web Project Management, IT Project Management, Technical Requirements, MERN Stack, API Integration, APIs, Front-end, Front-end Development, Axios, Software Design, Integration, WebSockets, Responsive Web Apps, matrix, eCommerce, Shopify Design, Shopify Customizations, Web Development, Full-stack, Architecture, Access Control, UI in context of a specific business problem, API Gateways, UI optimization, CTO, Web Search, Application State Management, Mobile App Development, Websites, Development, Back-end, Data Visualization, Dashboards, Software, Apps, User Interface (UI), Software Architecture, Technical Leadership, RESTful Services, Full-stack Development, Minimum Viable Product (MVP), Server-side Rendering, iOS Camera, Video Processing, Image Processing, API Documentation, eCommerce UI, Apple Pay, CI/CD Pipelines, Storybook, Pixel Perfect, Ethers.js, OAuth, Product Development, Team Leadership, Product Roadmaps, Reverse Engineering, Firebase Hosting, SVG
-
+<!--
 ## Certifications :
 - Certification from freeCodeCamp
   - Responsive Web Design        <br/>
     https://www.freecodecamp.org/certification/fcc58e73641-02b4-4a19-8450-d2f53c462d74/responsive-web-design
   - Front-end Development Libraries <br/>
     https://www.freecodecamp.org/certification/fcc58e73641-02b4-4a19-8450-d2f53c462d74/front-end-development-libraries
- 
+ -->
